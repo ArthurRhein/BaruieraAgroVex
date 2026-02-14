@@ -1,0 +1,1 @@
+O departamento de TI da empresa AgroVex está precisando de uma alteração. É necessário que você faça a tabela de produtos aparecer no canto direito da tela do programa. De forma que, quando clicado em "Salvar", as informações do produto, em forma de lista.
